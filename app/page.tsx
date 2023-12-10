@@ -25,3 +25,5 @@ export default async function Home({ searchParams }: HomeProps) {
     </Container>
   );
 }
+
+export const dynamic = 'auto';
